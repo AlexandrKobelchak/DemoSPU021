@@ -61,6 +61,6 @@ int main()
 		std::cout <<"Finded people::  "<< *res;
 	}
 
-
+	std::cout<<"Code by Alexandr Kobelchak";
 }
 
